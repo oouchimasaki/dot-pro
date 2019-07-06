@@ -12,3 +12,4 @@
  - git log
  - git add
  - git commit
+ - git diff
